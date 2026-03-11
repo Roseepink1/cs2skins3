@@ -10,7 +10,7 @@ define('DB_PASS', 'ssywjzAhnrTiTlfzppHMaSinvuOeQaoj');
 define('WEB_STYLE_DARK', true);
 
 define('STEAM_API_KEY', '166B19289797C07CCFCFC711FCCCA642');
-define('STEAM_DOMAIN_NAME', '');
-define('STEAM_LOGOUT_PAGE', '');
-define('STEAM_LOGIN_PAGE', '');
+define('STEAM_DOMAIN_NAME', 'cs2skins3-production.up.railway.app');
+define('STEAM_LOGOUT_PAGE', 'cs2skins3-production.up.railway.app');
+define('STEAM_LOGIN_PAGE', 'cs2skins3-production.up.railway.app');
 
